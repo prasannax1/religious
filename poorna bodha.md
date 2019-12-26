@@ -1,6 +1,6 @@
-Sri poorna bodha guru theertha payobdhi para,
-Kamari maksha vishamaksha sira sprusanthi,
-Poorvotharamitha tharanga charath suhamsa,
+Sri poorna bodha guru theertha payobdhi para, \
+Kamari maksha vishamaksha sira sprusanthi, \
+Poorvotharamitha tharanga charath suhamsa, \
 Devali sevitha parangri ugra payoia lagna
 
 Jeevesa bedha guna poorthi jagath susathwa,

@@ -39,7 +39,7 @@ Dus thapa thraya nasano bhuvi maha vandhyaya suputhra pradho,  \
 Vyanga swanga samrudhidho graha maha papa hastham sraye
 
 Yad pada kanja rajasa parii bhooshithanga,  \
-Yad pad padma Madhu payitha manasa ye
+Yad pad padma Madhu payitha manasa ye \
 Yad pada padma parikeerthana jeernavacha,  \
 Thad darshanam duritha kanana davamrutham
 

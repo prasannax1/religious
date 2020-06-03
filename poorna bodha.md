@@ -49,8 +49,8 @@ Vijayeendra karabhjothdha
 sudheendra vara puthraka
 
 Sri Raghavendro yathi rat
-gurur may syath bhaya pahaa
-Jnana Bhkthi suputrayuh,  \
+gurur may syath bhaya pahaa \
+Jnana Bhkthi suputrayuh,  
 Yasa sri Punya vardhana
 
 Prathivadi jaya swantha bhedha china dharo guru,  \
